@@ -1,4 +1,4 @@
-## <p align="center">Hi👋🏻 I’m Aleksandra.</p>
+![## <p align="center">Hi👋🏻 I’m Aleksandra.</p>](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient=color=0:003884,50:2b7fa1,100:1c959b&text=Hello%20👋🏻%20I'm%20Aleksandra&fontColor=FFF)
 ### <p align="center">**Junior Frontend Developer**</p>
 I'm passionate about **Frontend Development** and constantly exploring new technologies in the web development world. I enjoy turning ideas into interactive and visually appealing applications. Besides coding, I have a creative side - I love painting, crocheting, and doing embroidery. These hobbies help me relax and also inspire my design sense in development projects. Currently, I'm a student studying Big Data in Social Analytics, which allows me to combine my interest in technology with understanding social trends and human behavior. When I'm not coding or creating art, I enjoy discovering new tools, learning new skills, and working on projects that challenge me to grow.
 
