@@ -1,6 +1,7 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:004aad,30:006bb5,70:178a97,100:1c959b&text=Hello%20👋🏻%20I'm%20Aleksandra&fontColor=f7f5f5&textBg=false&section=header&fontAlign=50&fontSize=48)
 ### <p align="center">**Junior Frontend Developer**</p>
-I'm passionate about **Frontend Development** and constantly exploring new technologies in the web development world. I enjoy turning ideas into interactive and visually appealing applications. Besides coding, I have a creative side - I love painting, crocheting, and doing embroidery. These hobbies help me relax and also inspire my design sense in development projects. When I'm not coding or creating art, I enjoy discovering new tools, learning new skills, and working on projects that challenge me to grow.
+<p align="center">I'm passionate about **Frontend Development** and constantly exploring new technologies in the web development world. I enjoy turning ideas into interactive and visually appealing applications. Besides coding, I have a creative side - I love painting, crocheting, and doing embroidery. These hobbies help me relax and also inspire my design sense in development projects. When I'm not coding or creating art, I enjoy discovering new tools, learning new skills, and working on projects that challenge me to grow.
+</p>
 
 ### <p align="center"> 🛠️ Technologies & Tools</p>
 <p align="center">
